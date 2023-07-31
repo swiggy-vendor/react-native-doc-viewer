@@ -12,6 +12,7 @@ buildscript {
 apply plugin: 'com.android.library'
 
 android {
+    namespace "com.philipphecht"
     compileSdkVersion 25
     buildToolsVersion "25.0.0"
 
